@@ -1,0 +1,4 @@
+Cliente criado: amadeo bon | CPF: 1 | (18-04-2024 20:39:32)
+Nova conta criada para o cliente amadeo bon | Conta: 1 | (18-04-2024 20:39:37)
+Conta: 1 | Tipo: Deposito | Valor: R$ 500.00 | (18-04-2024 20:39:43)
+Conta: 1 | Tipo: Saque | Valor: R$ 50.00 | (18-04-2024 20:39:51)
